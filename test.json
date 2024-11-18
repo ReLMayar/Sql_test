@@ -1,0 +1,27 @@
+[
+{
+"applicant":{
+"id":"2",
+"firstName":"Василий",
+"lastName":"Иванов",
+"middleName":"Дмитриевич",
+"department":"Департамент ИТ",
+"division":"отдел разработки",
+"position":"Ведущий специалист"
+},
+"applicationReason":"поломка",
+"coordinatingManager":{
+"id":"1",
+"firstName":"Владимир",
+"lastName":"Александров",
+"middleName":"Алексеевич",
+"department":"Департамент хозяйственной деятельности",
+"division":"отдел эксплуатации здания",
+"position":"заведующий хозяйством"
+},
+"resolution":"одобрено",
+"resolutionPeriod":1,
+"resolutionSolution":"замена оборудования",
+"status":"в работе"
+}
+]
